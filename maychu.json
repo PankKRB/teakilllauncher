@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "name": "TheBro Studio",
+      "description": "Server sinh tồn, mini game & sự kiện hấp dẫn!",
+      "flVersion": "vanilla-1.20.4",
+      "icon": "https://thebrostudio.com/icon.png",
+      "ip": "mc.thebrostudio.com",
+      "version": "1.20.4+",
+      "port": 25565
+    }
+  ]
+}
